@@ -13,7 +13,7 @@ openwrt-cn目前只有Akagi201我自己一个人, 欢迎更多的OpenWrt爱好�
 团队的组成
 --------
 
-**选题**: 负责选择合适的内容, 并将原文转换为markdown格式，提交到AKmaker的[openwrt-cn](https://github.com/AKmaker/openwrt-cn)的repo中.
+**选题**: 负责选择合适的内容, 并将原文转换为markdown格式，提交到AKmaker的[openwrt-cn](https://github.com/AKmaker/openwrt-cn)的repo中. 懒的话, 可以直接将优秀的英文资源链接发到issue里面去.
 
 **译者**: 负责从选题中选择内容进行翻译.
 
